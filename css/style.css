@@ -31,8 +31,7 @@ body{
   height:1200px;
   background-color: #778738;
   margin-top: 40px;
-justify-content: center;
-  
+  justify-content: center;
 }
 
 .logo{
@@ -41,12 +40,97 @@ justify-content: center;
     margin:40px 40px ;
     border: transparent;
     border-radius: 10px;
-
 }
+
 .text{
     text-align: center;
     font-family:"CentGothWGL","Arial",'sans-serif';
     line-height: 1.15;
     color: #4d4d4d;
 }
+
+#year{
+  width: 500px;
+  height: 70px;
+  margin-left: 200px;
+  background-color: #778738;
+  border: solid;
+  border-color: purple;
+}
+
+ h4{
+  margin-left: 205px;
+  margin-bottom: 20px;
+ }
+
+#Country{
+  width: 500px;
+  height: 70px;
+  margin-left: 200px;
+  background-color: #778738;
+  border: solid;
+  border-color: purple;
+}
+#check-in{
+  margin-left:350px ;
+  margin-top: 70px;
+  background-color: #758537;
+  width: 30px;
+  height: 20px;
+  color: #758537;
+}
+.submittext{
+  display: flex;
+}
+.remenber{
+  margin-top: 70px;
+  margin-left: 20px;
+}
+ .do-not{
+width: 300px;
+text-align: center;
+margin-left: 300px;
+margin-top: -5px;
+ }
+
+ .by-clicking{
+  margin-inline: 80px;
+ }
+a{
+  color: #000000;
+}
+.form-button{
+  width: 31.25rem;
+  height: 55px;
+  margin-left: 200px;
+  background-color: #758537;
+  margin-top: 40px;
+  border: solid;
+  border-color: #800080;
+}
+.the-abuse{
+  text-align: center;
+  font-size: x-small;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
