@@ -1,0 +1,13 @@
+body :hover{
+    width: 1500px;
+    border-radius: 20px;
+}
+h1{
+    width: 1000px;
+    font-size: xx-large;
+}
+body {
+    width: 1300px;
+    border-radius: 50px;
+    background-color: blue;
+}
