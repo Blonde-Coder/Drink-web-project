@@ -28,7 +28,7 @@ if (yearInput.value >= 2003) {
 
 });
 
-$("Enter").on("click", function() { 
-    window.location.replace("/nextpage.html");
-    localeStorage.clear();
-  })
+// $("Enter").on("click", function() { 
+//     window.location.replace("/nextpage.html");
+//     localeStorage.clear();
+//   })
